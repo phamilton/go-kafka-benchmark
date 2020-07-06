@@ -1,4 +1,4 @@
-package io.kyma.benchmark;
+package benchmark;
 
 
 import org.apache.kafka.clients.consumer.*;
